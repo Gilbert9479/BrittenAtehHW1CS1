@@ -24,6 +24,6 @@ Date:   Wed Sep 6 20:44:49 2017 -0500
 ```
 
 ## Ateh Story
- It's all fun and games until the homework is due. 
+ It's all fun and games until the homework is due. Well, life happens. Get over it. 
 
 ## Britten Story
