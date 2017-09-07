@@ -1,0 +1,7 @@
+# Britten and Ateh Story
+
+## Item 3: A shared story.
+
+### Britten Contribution: People don't think the universe be like it is, but it do. - Neil deGrasse Tyson
+
+### Git log:
