@@ -23,6 +23,13 @@ Date:   Wed Sep 6 20:44:49 2017 -0500
     first commit
 ```
 
+
+```sh
+Here's what I want to get out of this class:
+
+There are so many things I want to get out of this class. First and foremost, I want to be the best Java programmer out there. Knowing that it is not possible to be one or there never is 
+one is encouraging, because I rest assured that it is ok to make mistakes. For someone who always has been obsessed with perfection, I want to be the best in everything I do. If I can use this time now to know all that there is to know in Java, I believe I will be ten steps closer to my goal, especially now that I am actively learning Python as well. I guess I wanna be the best I can be. 
+
 ## Ateh Story
  It's all fun and games until the homework is due. Well, life happens. Get over it. 
 
