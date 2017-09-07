@@ -5,3 +5,63 @@
 ### Britten Contribution: People don't think the universe be like it is, but it do. - Neil deGrasse Tyson
 
 ### Git log:
+
+```sh
+commit eab36e9d3ed5829fa42e4ee7cc38e732d274b4e1
+Merge: 111177a 6f39909
+Author: BrittenSpandley <spandleyb@student.swosu.edu>
+Date:   Thu Sep 7 18:36:32 2017 -0500
+
+    Merge branch 'britten' into dev
+
+commit 6f39909cc2c19f68ac3f41b3d7b8b23a75693546
+Author: BrittenSpandley <spandleyb@student.swosu.edu>
+Date:   Thu Sep 7 18:33:52 2017 -0500
+
+    added my contribution.
+
+commit 111177a813a15c34f9ee98bf55d45ef66aab24f3
+Merge: 4a6d631 2ad1649
+Author: Gilbert9479 <Ngulefaca@student.swosu.edu>
+Date:   Wed Sep 6 23:38:53 2017 -0500
+
+    Merge branch 'Ateh' into dev
+
+commit 2ad16491bd2a71734b4bbf273108bbd62cb6b9db
+Author: Gilbert9479 <Ngulefaca@student.swosu.edu>
+Date:   Wed Sep 6 23:06:03 2017 -0500
+
+    added my git log
+
+commit a2f8e61a206cee60835490a9176656d0de1a516c
+Author: Gilbert9479 <Ngulefaca@student.swosu.edu>
+Date:   Wed Sep 6 22:19:46 2017 -0500
+
+    added more to my story.
+
+commit 891b2374711bcf87e7f6fdab85b76aa1a13be235
+Merge: 19162aa 4a6d631
+Author: Gilbert9479 <Ngulefaca@student.swosu.edu>
+Date:   Wed Sep 6 22:17:02 2017 -0500
+
+    Merge branch 'dev' into Ateh
+
+commit 4a6d631a64f9c3b2b4b79ff342a9ae27dd0ed9d9
+Author: Gilbert9479 <Ngulefaca@student.swosu.edu>
+Date:   Wed Sep 6 22:10:02 2017 -0500
+
+    added my own contribution.
+
+commit 19162aa63d7924959e6f7a1a8ff6fcc9af4931e1
+Author: Gilbert9479 <Ngulefaca@student.swosu.edu>
+Date:   Wed Sep 6 21:29:42 2017 -0500
+
+    added a story to get things started.
+
+commit ec3d76213c276cbdb67c124950502afa5e747e8d
+Author: Gilbert9479 <Ngulefaca@student.swosu.edu>
+Date:   Wed Sep 6 20:44:49 2017 -0500
+
+    first commit
+
+```
